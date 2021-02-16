@@ -1,5 +1,7 @@
 Segment integration into Shopify. 
 
+Each of these scripts will be placed on each of these theme films. ** Depending on the theme, the Query Selectors will need to be updated for each of the forms, buttons, etc.
+
 # Shopify Pages updated
 
 
